@@ -73,6 +73,9 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# startercontent
+# startercontent and misc
 Content/StarterContent/*
+Content/MS_Grass/*
+Content/MSPresets/*
+Source/*
 
